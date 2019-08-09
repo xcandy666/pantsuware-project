@@ -1,1 +1,1 @@
-# pantsuware-project
+# pantsuware-projects
